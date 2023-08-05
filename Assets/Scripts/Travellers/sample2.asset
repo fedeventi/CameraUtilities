@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b661decd04377e84f90864f9cf111f34, type: 3}
+  m_Name: sample2
+  m_EditorClassIdentifier: 
+  list:
+  - {x: 31.292654, y: 1.804, z: 3.620709}
+  - {x: 31.289005, y: 1.7855031, z: 3.3451076}
+  - {x: 31.313639, y: 1.8700888, z: 3.0561786}
+  - {x: 31.337194, y: 2.0921342, z: 2.7729456}
+  - {x: 31.330309, y: 2.4860168, z: 2.5144324}
+  path: {fileID: 11400000, guid: 74ff437da4972294c9a6ea05686c190c, type: 2}
+  lookingPoints:
+  - {x: 31.292654, y: 1.804, z: -0.18400458}
+  - {x: 31.330309, y: 2.4860168, z: -0.29463732}
+  indexers:
+  - {x: 31.292654, y: 1.804, z: 3.620709}
+  - {x: 31.330309, y: 2.4860168, z: 2.5144324}
+  speed: 0.1
+  speedRotation: 0.94
+  followPath: 0
